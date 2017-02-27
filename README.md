@@ -4,7 +4,12 @@ My first attempt at using the unreal Engine 4 to make an escape game
 
 ## Installation
 
-To run the code you will need to include the UE4 Starter content manually into the appropriate folder beforehand.
+To run the code you will need to include the UE4 Starter content folders:
+
+Content/StarterContent/Textures
+Content/StarterContent/HDRI
+
+manually into the folders beforehand.
 
 ## Contributors
 
